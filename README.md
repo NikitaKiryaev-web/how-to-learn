@@ -9,3 +9,4 @@
 ### Сайт полоностью сделан с помощью HTML5+CSS3.
 ### Системные требования:
 Версии языков: HTML5, CSS3, никакие расширения не требуются.
+### Ссылка на github-pages: https://nikitakiryaev-web.github.io/how-to-learn/
